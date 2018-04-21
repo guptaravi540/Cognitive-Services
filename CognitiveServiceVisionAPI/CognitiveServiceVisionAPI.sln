@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-MVC", "Sample-MVC\Sample-MVC.csproj", "{76DDD7D2-F9ED-4BA5-89AE-0BA731BAF584}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionAPI_MVC_Sample", "Sample-MVC\VisionAPI_MVC_Sample.csproj", "{76DDD7D2-F9ED-4BA5-89AE-0BA731BAF584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-WPF", "Sample-WPF\Sample-WPF.csproj", "{AF7BED46-F071-4209-9C23-79BC912D0909}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionAPI_WPF_Samples", "Sample-WPF\VisionAPI_WPF_Samples.csproj", "{AF7BED46-F071-4209-9C23-79BC912D0909}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-ClassLib", "WPF-ClassLib\WPF-ClassLib.csproj", "{735929F0-F8F1-4D93-B027-5D034FA7892B}"
 EndProject
