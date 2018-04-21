@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionAPI_MVC_Sample", "Sample-MVC\VisionAPI_MVC_Sample.csproj", "{76DDD7D2-F9ED-4BA5-89AE-0BA731BAF584}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionAPI_WPF_ClassLib", "VisionAPI_WPF_ClassLib\VisionAPI_WPF_ClassLib.csproj", "{735929F0-F8F1-4D93-B027-5D034FA7892B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionAPI_WPF_Samples", "Sample-WPF\VisionAPI_WPF_Samples.csproj", "{AF7BED46-F071-4209-9C23-79BC912D0909}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionAPI_WPF_Samples", "VisionAPI_WPF_Samples\VisionAPI_WPF_Samples.csproj", "{AF7BED46-F071-4209-9C23-79BC912D0909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-ClassLib", "WPF-ClassLib\WPF-ClassLib.csproj", "{735929F0-F8F1-4D93-B027-5D034FA7892B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionAPI_MVC_Sample", "VisionAPI_MVC_Sample\VisionAPI_MVC_Sample.csproj", "{418A7563-E7FD-4222-AE2F-23FFF15997C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{76DDD7D2-F9ED-4BA5-89AE-0BA731BAF584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{76DDD7D2-F9ED-4BA5-89AE-0BA731BAF584}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{76DDD7D2-F9ED-4BA5-89AE-0BA731BAF584}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{76DDD7D2-F9ED-4BA5-89AE-0BA731BAF584}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AF7BED46-F071-4209-9C23-79BC912D0909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF7BED46-F071-4209-9C23-79BC912D0909}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF7BED46-F071-4209-9C23-79BC912D0909}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF7BED46-F071-4209-9C23-79BC912D0909}.Release|Any CPU.Build.0 = Release|Any CPU
 		{735929F0-F8F1-4D93-B027-5D034FA7892B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{735929F0-F8F1-4D93-B027-5D034FA7892B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{735929F0-F8F1-4D93-B027-5D034FA7892B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{735929F0-F8F1-4D93-B027-5D034FA7892B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7BED46-F071-4209-9C23-79BC912D0909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7BED46-F071-4209-9C23-79BC912D0909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7BED46-F071-4209-9C23-79BC912D0909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7BED46-F071-4209-9C23-79BC912D0909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{418A7563-E7FD-4222-AE2F-23FFF15997C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418A7563-E7FD-4222-AE2F-23FFF15997C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418A7563-E7FD-4222-AE2F-23FFF15997C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418A7563-E7FD-4222-AE2F-23FFF15997C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
