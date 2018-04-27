@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionAPI_WPF_Samples", "Vi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionAPI_MVC_Sample", "VisionAPI_MVC_Sample\VisionAPI_MVC_Sample.csproj", "{418A7563-E7FD-4222-AE2F-23FFF15997C6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VisionAPI", "VisionAPI", "{3F94907E-FFCB-456F-BFED-9098BEE2474F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmotionAndFaceAPI", "EmotionAndFaceAPI", "{1282C6AF-4DCC-490A-8E77-3BB513770FDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +34,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{735929F0-F8F1-4D93-B027-5D034FA7892B} = {3F94907E-FFCB-456F-BFED-9098BEE2474F}
+		{AF7BED46-F071-4209-9C23-79BC912D0909} = {3F94907E-FFCB-456F-BFED-9098BEE2474F}
+		{418A7563-E7FD-4222-AE2F-23FFF15997C6} = {3F94907E-FFCB-456F-BFED-9098BEE2474F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0D2E561F-6B24-46E1-B190-A8BC0F2A3C13}
