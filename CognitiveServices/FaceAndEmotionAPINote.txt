@@ -1,0 +1,7 @@
+
+
+As Face API now integrates emotion recognition capability in general availability, 
+we will be deprecating Emotion API preview on 15th February 2019 for existing customers.
+Try the emotion recognition capabilities of Face API now.
+
+That is, Face API will server emotion recognition capability.
